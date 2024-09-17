@@ -1,4 +1,4 @@
-package playground.grpc.server;
+package playground.grpcserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
